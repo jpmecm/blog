@@ -8,7 +8,6 @@
 ## Microsoft Endpoint Configuration Manager
 
 - [test](./articles/test/test.md)
-- [test](./articles/test/test2.md)
 
 
 ## その他
