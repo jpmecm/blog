@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Japan Microsoft Endpoint Configuration Manager Support Blog</title>
+  
+  <subtitle>日本マイクロソフトの Microsoft Endpoint Configuration Manager に関するサポート情報のブログです。</subtitle>
+  <link href="/blog/atom.xml" rel="self"/>
+  
+  <link href="https://jpmecm.github.io/blog/"/>
+  <updated>2020-09-07T05:27:35.030Z</updated>
+  <id>https://jpmecm.github.io/blog/</id>
+  
+  <author>
+    <name>Microsoft Endpoint Configuration Manager Support Japan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TEST</title>
+    <link href="https://jpmecm.github.io/blog/test/test/"/>
+    <id>https://jpmecm.github.io/blog/test/test/</id>
+    <published>2020-08-26T15:00:00.000Z</published>
+    <updated>2020-09-07T05:27:35.030Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>�{�L���́A �e�X�g�L���ɂȂ�܂��B</p></blockquote><p>�F���񂱂�ɂ��́B</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;�{�L���́A �e�X�g�L���ɂȂ�܂��B&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;�F���񂱂�ɂ��́B&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="SCCM" scheme="https://jpmecm.github.io/blog/tags/SCCM/"/>
+    
+  </entry>
+  
+</feed>
